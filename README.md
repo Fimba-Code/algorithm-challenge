@@ -18,9 +18,18 @@ As soluções desenvolvidas devem ser partilhadas no canal [**#code-drop** no di
 
 ## Challenge 🥋
 
-Os challenges (desafios) começaram do mais simples ao mais arduo, mas poderás resolver-los de forma aleatória. Esse challenge será componsto por 3 problemas sendo que os mesmos ajudaram o participante á desenvolver algum skill especifico.
+Os challenges (desafios) começaram do mais simples ao mais arduo, mas poderás resolver-los de forma aleatória. Esse challenge será componsto por 4 problemas sendo que os mesmos ajudaram o participante á desenvolver algum skill especifico.
 
-### Challenge #1 - Palíndromo
+### Challenge #1 - Soma de números inteiros 🧊
+
+Dado um número inteiro, retorne a soma de todos os dígitos.
+
+```sh
+input: 124 
+output: 7
+```
+
+### Challenge #2 - Palíndromo 💤
 
 Palíndromos é um número/palavra (ou um conjunto de números/palavras) que **lendo de esquerda para a direita ou da direita para esquerda são iguais**. Para este challenge, o teu programa deve receber um input do usuário e definir se este input é ou não um palindromo. 
 
@@ -29,7 +38,7 @@ Input: SOCORRAM-ME! SUBI NO ÔNIBUS EM MARROCOS!
 Output: Olá o seu input é um palindromo
 ``` 
 
-### Challenge #2 - Sequência de Fibonacci
+### Challenge #3 - Sequência de Fibonacci 🔢
 
 Fibonacci é uma sequência de números inteiros começando normalmente por 0 e 1, na qual, cada termo subsequente corresponde à soma dos dois números anteriores. Os números de Fibonacci são, portanto, os números que compõem a seguinte sequência: `0, 1, 1, 2, 3, 5, 8, 13, 21, ...`.
 
@@ -47,7 +56,7 @@ input: 10
 output: Fib: 0 1 1 2 3 5 8 13 21 34
 ```
 
-### Challenge #3 - Probabilidade
+### Challenge #4 - Probabilidade 🎲
 
 Dada uma moeda justa que é lançada `N` vezes, a tarefa é determinar a probabilidade de forma que não ocorram duas *insígnias* consecutivamente.
 
