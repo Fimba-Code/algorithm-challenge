@@ -46,6 +46,21 @@ O seu programa deve receber o número *n* e gerar uma sequencia de fibonacci.
 input: 10
 output: Fib: 0 1 1 2 3 5 8 13 21 34
 ```
+
+### Challenge #3 - Probabilidade
+
+Dada uma moeda justa que é lançada `N` vezes, a tarefa é determinar a probabilidade de forma que não ocorram duas *insignias* consecutivamente.
+
+```sh
+input: N = 2
+output: 0.75
+```
+> T: Numeros, H: Insignia 👇🏾
+
+Quando a moeda é lançada 2 vezes, os resultados possíveis são `TH, HT, TT, HH`. Como em 3 de 4 resultados, as *insignias* não ocorrem juntas. Portanto, a probabilidade requerida é `(3/4)` ou `0.75`
+
+**Dica importante:** use o conceito aprendido quando no exercício sobre Fibonacci para resolver este exercício.
+
 <hr/>
 
 > *Let's hack it. Boa sorte ~ Fimba code: 22, May, 2020*
