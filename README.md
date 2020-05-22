@@ -18,7 +18,7 @@ As soluções desenvolvidas devem ser partilhadas no canal [**#code-drop** no di
 
 ## Challenge 🥋
 
-Os challenges (desafios) começaram do mais simples ao mais arduo, mas poderás resolver-los de forma aleatória. Esse challenge será composto por 4 problemas sendo que os mesmos ajudarão o participante à desenvolver algum skill específico.
+Os challenges (desafios) começarão do mais simples ao mais arduo, mas poderás resolver-los de forma aleatória. Esse challenge será composto por 4 problemas sendo que os mesmos ajudarão o participante à desenvolver algum skill específico.
 
 ### Challenge #1 - Soma de números inteiros 🧊
 
