@@ -1,4 +1,4 @@
-<h1 align="center" style="color:">Desafio de Algoritmos básicos: #1 <h1/>
+<h1 align="center" style="color:">Desafio de Algoritmos básicos: #1 </h1>
   
 ## Introdução 📜
 
