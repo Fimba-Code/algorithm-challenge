@@ -13,7 +13,7 @@ As soluções desenvolvidas devem ser partilhadas no canal [**#code-drop** no di
 1. Não te esqueças de formatar o teu código ao antes enviar à communidade, para mais informações visite => [discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline).
 2. Use funções no teu programa sempre que necessário para a reutilização de códigos e simplificação dos programas. 
 3. Resolva o teus exercícios streaming live (ajuda-te a ganhar mais pontos)
-4. Desenvolva e partilhe o seu pseudocódigo junto da tua submissão.
+4. Desenvolva e partilhe o seu pseudocódigo(algoritimo) junto da tua submissão.
 
 
 ## Challenge 🥋
@@ -49,15 +49,15 @@ output: Fib: 0 1 1 2 3 5 8 13 21 34
 
 ### Challenge #3 - Probabilidade
 
-Dada uma moeda justa que é lançada `N` vezes, a tarefa é determinar a probabilidade de forma que não ocorram duas *insignias* consecutivamente.
+Dada uma moeda justa que é lançada `N` vezes, a tarefa é determinar a probabilidade de forma que não ocorram duas *insígnias* consecutivamente.
 
 ```sh
 input: N = 2
 output: 0.75
 ```
-> T: Numeros, H: Insignia 👇🏾
+> T: Numeros, H: Insígnia 👇🏾
 
-Quando a moeda é lançada 2 vezes, os resultados possíveis são `TH, HT, TT, HH`. Como em 3 de 4 resultados, as *insignias* não ocorrem juntas. Portanto, a probabilidade requerida é `(3/4)` ou `0.75`
+Quando a moeda é lançada 2 vezes, os resultados possíveis são `TH, HT, TT, HH`. Como em 3 de 4 resultados, as *insígnias* não ocorrem juntas. Portanto, a probabilidade requerida é `(3/4)` ou `0.75`
 
 **Dica importante:** use o conceito aprendido quando no exercício sobre Fibonacci para resolver este exercício.
 
