@@ -12,10 +12,8 @@ except ValueError:
     exit(0)
 
 
-#3. Remover o sinal '-' se o número for negativo
-
-if "-" in num:
-    num = num.replace("-","")
+#3. Obter o valor absoluto do número (em caso de negativos)
+num = str(abs(int(num)))
 
 
 # 4. Percorrer cada 'digito' do número e acumular a soma 
